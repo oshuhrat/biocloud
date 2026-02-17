@@ -1,0 +1,21 @@
+{
+  "name": "SKBR3 (HER2+ breast cancer)",
+  "source": "Marino et al. 2018 Sci Rep 8:6257",
+  "G_pol": 3.0,
+  "G_dep": 4.25,
+  "V_half": -25.0,
+  "z": 3.0,
+  "V_T": 26.0,
+  "E_pol": -90.0,
+  "E_dep": 0.0,
+  "C_m": 20.0,
+  "gj_healthy": 2.0,
+  "gj_cancer": 0.3,
+  "gj_instructor": 1.0,
+  "gj_V0": 26.0,
+  "instructor_vmem_offset": 15.0,
+  "vmem_verified": false,
+  "conductance_estimated": true,
+  "gj_same_line": false,
+  "notes": "Kir3.2 upregulation with BaTiO3+US (Marino 2018). No direct Vmem. Parameters from MCF-7 as placeholder."
+}

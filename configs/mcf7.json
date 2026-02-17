@@ -1,0 +1,21 @@
+{
+  "name": "MCF-7 (Luminal A breast cancer)",
+  "source": "PMID 7559799, PMID 11697078",
+  "G_pol": 3.0,
+  "G_dep": 4.25,
+  "V_half": -25.0,
+  "z": 3.0,
+  "V_T": 26.0,
+  "E_pol": -90.0,
+  "E_dep": 0.0,
+  "C_m": 20.0,
+  "gj_healthy": 2.0,
+  "gj_cancer": 0.5,
+  "gj_instructor": 1.5,
+  "gj_V0": 26.0,
+  "instructor_vmem_offset": 15.0,
+  "vmem_verified": true,
+  "conductance_estimated": true,
+  "gj_same_line": false,
+  "notes": "Vmem from microelectrode: D group -9mV, H group -40mV (Wonderlin 1995). IK from patch-clamp: 9.4 pA/pF G0/G1 (PMID 11697078). GJ from Cx43 general data (Bukauskas 2002)."
+}

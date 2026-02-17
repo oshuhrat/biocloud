@@ -1,0 +1,30 @@
+{
+  "name": "YOUR CELL LINE NAME",
+  "source": "YOUR CITATION (Author Year, DOI)",
+
+  "_comment_channels": "Bistable model: polarizing (K+) and depolarizing (Na+/leak) channels",
+  "G_pol": 3.0,
+  "G_dep": 4.0,
+  "V_half": -25.0,
+  "z": 3.0,
+  "V_T": 26.0,
+  "E_pol": -90.0,
+  "E_dep": 0.0,
+  "C_m": 20.0,
+
+  "_comment_gj": "Gap junction conductances in nanosiemens",
+  "gj_healthy": 2.0,
+  "gj_cancer": 0.5,
+  "gj_instructor": 1.0,
+  "gj_V0": 26.0,
+
+  "_comment_instructor": "Instructor cell Vmem = cancer_attractor + offset",
+  "instructor_vmem_offset": 15.0,
+
+  "_comment_flags": "Data quality flags",
+  "vmem_verified": false,
+  "conductance_estimated": true,
+  "gj_same_line": false,
+
+  "notes": "REPLACE WITH YOUR PARAMETER SOURCES"
+}
