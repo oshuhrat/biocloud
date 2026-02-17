@@ -37,7 +37,7 @@ and answers three questions:
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/biocloud.git
+git clone https://github.com/oshuhrat/biocloud.git
 cd biocloud
 pip install -r requirements.txt
 ```
